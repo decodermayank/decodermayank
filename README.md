@@ -18,7 +18,7 @@ I'm a **B.Tech student at Gautam Buddha University**, Greater Noida, on a missio
 
 - 🌱 Currently learning: **HTML, CSS, C, C++, Java & Python**
 - 🎯 Goal: Build real-world projects and contribute to open source
-- 🏫 University email: [255ucs033@gbu.ac.in](mailto:255ucs033@gbu.ac.in)
+- 🏫 E-mail : [255ucs033@gbu.ac.in](mailto:255ucs033@gbu.ac.in)
 - ⚡ Fun fact: I also love design — Blender, Figma & Photoshop are my creative tools
 
 ---
